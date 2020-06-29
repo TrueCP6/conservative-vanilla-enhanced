@@ -3,7 +3,7 @@
     "version": "1.15.2",
     "modLoaders": [
       {
-        "id": "forge-31.2.20",
+        "id": "forge-31.2.27",
         "primary": true
       }
     ]
@@ -14,6 +14,11 @@
   "version": "0.1.0",
   "author": "Truecp5",
   "files": [
+    {
+      "projectID": 378808,
+      "fileID": 2957623,
+      "required": true
+    },
     {
       "projectID": 331956,
       "fileID": 2870635,
@@ -37,6 +42,11 @@
     {
       "projectID": 353890,
       "fileID": 2937754,
+      "required": true
+    },
+    {
+      "projectID": 351973,
+      "fileID": 2835111,
       "required": true
     },
     {
@@ -72,6 +82,11 @@
     {
       "projectID": 361988,
       "fileID": 2989730,
+      "required": true
+    },
+    {
+      "projectID": 374048,
+      "fileID": 2977784,
       "required": true
     },
     {
@@ -130,18 +145,13 @@
       "required": true
     },
     {
-      "projectID": 337243,
-      "fileID": 2970655,
-      "required": true
-    },
-    {
       "projectID": 354231,
       "fileID": 2872719,
       "required": true
     },
     {
-      "projectID": 308892,
-      "fileID": 2957593,
+      "projectID": 337243,
+      "fileID": 2970655,
       "required": true
     },
     {
@@ -150,8 +160,23 @@
       "required": true
     },
     {
+      "projectID": 308892,
+      "fileID": 2957593,
+      "required": true
+    },
+    {
       "projectID": 318894,
       "fileID": 2927042,
+      "required": true
+    },
+    {
+      "projectID": 367941,
+      "fileID": 2903994,
+      "required": true
+    },
+    {
+      "projectID": 357256,
+      "fileID": 2985071,
       "required": true
     },
     {
