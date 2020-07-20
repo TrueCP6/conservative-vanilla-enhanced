@@ -3,14 +3,14 @@
     "version": "1.16.1",
     "modLoaders": [
       {
-        "id": "forge-32.0.61",
+        "id": "forge-32.0.70",
         "primary": true
       }
     ]
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Conservative Vanilla Enhanced",
+  "name": "CVE 1.16",
   "version": "0.1.0",
   "author": "Truecp5",
   "files": [
@@ -21,7 +21,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 2993273,
+      "fileID": 3007384,
       "required": true
     },
     {
@@ -36,7 +36,7 @@
     },
     {
       "projectID": 353890,
-      "fileID": 2988479,
+      "fileID": 3005427,
       "required": true
     },
     {
@@ -81,7 +81,7 @@
     },
     {
       "projectID": 308702,
-      "fileID": 2988292,
+      "fileID": 3006672,
       "required": true
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "projectID": 314612,
-      "fileID": 2996579,
+      "fileID": 3000795,
       "required": true
     },
     {
@@ -131,7 +131,7 @@
     },
     {
       "projectID": 354231,
-      "fileID": 2992029,
+      "fileID": 3008323,
       "required": true
     },
     {
@@ -141,7 +141,7 @@
     },
     {
       "projectID": 308892,
-      "fileID": 2993142,
+      "fileID": 3002065,
       "required": true
     },
     {
@@ -156,7 +156,7 @@
     },
     {
       "projectID": 357256,
-      "fileID": 2992221,
+      "fileID": 3003674,
       "required": true
     },
     {
@@ -171,7 +171,7 @@
     },
     {
       "projectID": 364531,
-      "fileID": 2996373,
+      "fileID": 3005190,
       "required": true
     },
     {
