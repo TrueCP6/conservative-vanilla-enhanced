@@ -1,4 +1,4 @@
-- [SuperCoder79](https://www.patreon.com/supercoder79) (creator of Fabric Chunk Pregenerator and Vanilla+ Biomes)
+- [SuperCoder79](https://www.patreon.com/supercoder79) (creator of Fabric Chunk Pregenerator)
 - [sk89q](https://www.patreon.com/sk89q), [me402, octylFractal and wizjany](https://github.com/sponsors/EngineHub) (creators of WorldEdit)
 - [chylex](https://www.patreon.com/chylex) (creator of Resource Pack Organizer)
 
