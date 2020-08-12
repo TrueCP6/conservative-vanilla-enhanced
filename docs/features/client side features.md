@@ -1,4 +1,4 @@
-These features will work in singleplayer, CVE servers, vanilla servers and realms.
+These features will work in singleplayer, on CVE servers, on vanilla servers and on realms when playing with a CVE client.
 
 # Features for more casual players
 ## Controller support
@@ -108,7 +108,7 @@ Press shift when hovering over the item.
 ## Warning when potion effects are about to run out
 Does not apply to ambient potion effects.
 
-## Print death co-ordinates to chat
+## Print your death co-ordinates to chat
 Only visible to you.
 
 ## Zoom

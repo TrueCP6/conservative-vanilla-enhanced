@@ -3,7 +3,6 @@
 - [sk89q](https://www.patreon.com/sk89q), [me402, octylFractal and wizjany](https://github.com/sponsors/EngineHub) (creators of WorldEdit)
 
 - [gnembon](https://www.youtube.com/c/gnembon) (creator of Carpet, Carpet Extra and Chat Up!)
-- [YUNGNICKYOUNG](http://yungnickyoung.com/) (creator of YUNG's Better Mineshafts)
 - [G4me4u](https://www.youtube.com/channel/UCUjRi2jebmD9nFP4lthWy6g) (creator of G4mespeed)
 
 - [Masa](https://github.com/maruohon) (creator of Litematica, MiniHUD, Tweakeroo and MaLiLib)
